@@ -1,0 +1,13 @@
+/*
+* author: ITIC. Ruben Cruz Aguilar
+*/
+
+p.advertencia {  
+  color: orange;  
+  }    
+p.indicador {  
+  color: green;  
+  }  
+p.advertenciaMax {  
+  color: red;  
+  }  
